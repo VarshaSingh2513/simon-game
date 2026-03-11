@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+.box-container{
+      width:420px;
+    margin:auto;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap:20px;
+}
+.box-container div{
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+}
+#pink{
+    background-color: pink;
+    
+    margin: auto;
+}
+#blue{
+    background-color:rgb(41, 151, 179);
+    margin: auto;
+}
+#Dblue{
+    background-color:rgb(7, 44, 99);
+    margin: auto;
+}
+#yellow{
+    background-color:rgb(226, 168, 60);
+    margin: auto;
+}
+.Gameflash{
+    background-color: white;
+    opacity: 0.5;
+}
+.Userflash{
+    background-color:green !important;
+    opacity: 0.5;
+}
