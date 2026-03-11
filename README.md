@@ -1,2 +1,18 @@
-# simon-game
-Simon Game is a simple memory-based web game inspired by the classic Simon electronic game. Players must repeat an increasing sequence of colors shown by the system. With each level, the sequence becomes longer and more challenging. The project is built using HTML, CSS, and JavaScript,..
+# Simon Game
+A simple and interactive **Simon Memory Game** built using **HTML, CSS, and JavaScript**.
+This game challenges players to remember and repeat a sequence of colors that increases with each level.
+
+# How the Game Works
+1. Press any key to start the game.
+2. The game will highlight a random color.
+3. Memorize the sequence of colors.
+4. Click the buttons in the same order as shown.
+5. With each level, a new color is added to the sequence.
+6. If you click the wrong color, the game ends and your score is displayed.
+
+ #Technologies Used
+* HTML – Structure of the game
+* CSS – Styling and animations
+* Javascript – Game logic and interactivity
+
+
